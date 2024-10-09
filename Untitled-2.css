@@ -1,0 +1,48 @@
+
+body{
+    background: linear-gradient(0.25turn, #3f9adc, #ffffff, #37a9eb);  
+}
+.containerMenu{
+    text-align: right;
+    font-size: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: bold;
+    color: yellow;
+ text-shadow: 0.1em 0.1em 0.2em rgb(0, 0, 0);
+    font-size: 2.5rem; /* Tamanho da fonte */
+    
+    text-align: center; /* Alinha o texto ao centro */
+    letter-spacing: 0.0rem; /* Espaçamento entre letras */
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: bold;
+    color: rgb(0, 0, 0);
+
+    
+    
+    text-align: left; /* Alinha o texto ao centro */
+    letter-spacing: 0.0rem; /* Espaçamento entre letras */
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: bold;
+    color: rgb(0, 0, 0);
+    text-align: center; /* Alinha o texto ao centro */
+    letter-spacing: 0.0rem; /* Espaçamento entre letras */
+}
+
+footer {
+    
+    color: #252629; /* Cor do texto */
+    text-align:left; /* Alinha o texto ao centro */
+    padding: 0; /* Espaçamento interno */
+    width: 100%; /* Largura total da página */
+    position:-ms-page; /* Posiciona o rodapé */
+    bottom: 0; /* Alinha ao fundo da página */
+    font-size: 01.1rem; /* Tamanho da fonte */
+}
